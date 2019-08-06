@@ -1,7 +1,7 @@
 # CPU-Dasher-for-Android
 CPU Dasher for Android
 
-**Current Version**: 0.1
+**Current Version**: 0.2
 
 ## Description
 
