@@ -1,4 +1,4 @@
-# CPU-Dasher-for-Android
+# CPU Dasher for Android
 CPU Dasher for Android
 
 **Current Version**: 0.3
